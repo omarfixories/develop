@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fixo_mision_espacial_fixo_mision_espacial,fixo_mision_espacial.fixo_mision_espacial,model_fixo_mision_espacial_fixo_mision_espacial,base.group_user,1,1,1,1
