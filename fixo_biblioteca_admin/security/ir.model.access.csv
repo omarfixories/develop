@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_fixo_biblioteca_admin_fixo_biblioteca_admin,fixo_biblioteca_admin.fixo_biblioteca_admin,model_fixo_biblioteca_admin_fixo_biblioteca_admin,base.group_user,1,1,1,1
