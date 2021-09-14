@@ -16,4 +16,6 @@
     'depends'      : ['base'],
     'data'         : [],
     'demo'         : ['demo/academy_demo.xml'],
+
+
 }

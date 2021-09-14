@@ -40,6 +40,6 @@
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
- 
+   
     </data>
 </odoo>

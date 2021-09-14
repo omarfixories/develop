@@ -1,4 +1,5 @@
 <odoo>
+
     <data noupdate="1">
 
           <record id="naveG1" model="fixo_mision_espacial.nave">
