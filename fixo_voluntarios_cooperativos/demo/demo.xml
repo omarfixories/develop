@@ -1,6 +1,6 @@
 <odoo>
     <data noupdate="1">
-<!--
+
           <record id="T1" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 1</field>
             <field name="horaInicio">2021-09-13 09:00:00</field>
@@ -40,7 +40,6 @@
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
--->
  
     </data>
 </odoo>
