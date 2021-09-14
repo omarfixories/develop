@@ -1,6 +1,6 @@
 <odoo>
     <data noupdate="1">
-<!--
+
           <record id="Libro1" model="fixo_biblioteca_admin.libro">
             <field name="titulo">El señor de los anillos</field>
             <field name="paginas">340</field>
@@ -31,6 +31,5 @@
             <field name="Autor">Mark Manson</field>
           </record>
           
--->
     </data>
 </odoo>
