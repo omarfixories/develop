@@ -3,40 +3,40 @@
 
           <record id="T1" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 1</field>
-            <field name="horaInicio">2021-09-13 09:00:00</field>
-            <field name="horaFIn">2021-09-13 12:00:00</field>
+            <field name="horaInicio">2021-09-13 09:00</field>
+            <field name="horaFIn">2021-09-13 12:00</field>
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
         
         <record id="T2" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 2</field>
-            <field name="horaInicio">2021-09-13 12:00:00</field>
-            <field name="horaFIn">2021-09-13 1:00:00</field>
+            <field name="horaInicio">2021-09-13 12:00</field>
+            <field name="horaFIn">2021-09-13 01:00</field>
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
         
         <record id="T3" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 3</field>
-            <field name="horaInicio">2021-09-13 01:00:00</field>
-            <field name="horaFIn">2021-09-13 03:00:00</field>
+            <field name="horaInicio">2021-09-13 01:00</field>
+            <field name="horaFIn">2021-09-13 03:00</field>
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
         
         <record id="T4" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 4</field>
-            <field name="horaInicio">2021-09-13 03:00:00</field>
-            <field name="horaFIn">2021-09-13 04:00:00</field>
+            <field name="horaInicio">2021-09-13 03:00</field>
+            <field name="horaFIn">2021-09-13 04:00</field>
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
         
         <record id="T5" model="fixo_voluntarios_cooperativos.tareas">
             <field name="name">Tarea 5</field>
-            <field name="horaInicio">2021-09-13 04:00:00</field>
-            <field name="horaFIn">2021-09-13 05:00:00</field>
+            <field name="horaInicio">2021-09-13 04:00</field>
+            <field name="horaFIn">2021-09-13 05:00</field>
             <field name="periorica">1</field>
             <field name="periodicidad">600</field>
           </record>
