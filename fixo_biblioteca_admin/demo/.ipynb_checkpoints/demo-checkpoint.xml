@@ -30,7 +30,6 @@
             <field name="paginas">220</field>
             <field name="Autor">Mark Manson</field>
           </record>
-       
-
+          
     </data>
 </odoo>

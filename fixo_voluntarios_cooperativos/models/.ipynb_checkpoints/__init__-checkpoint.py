@@ -2,5 +2,3 @@
 
 from . import voluntarios
 from . import tareas
-
-
