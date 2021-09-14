@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
-# from odoo import models, fields, api
+from odoo import models, fields, api
 
 
-# class fixo_biblioteca_admin(models.Model):
-#     _name = 'fixo_biblioteca_admin.fixo_biblioteca_admin'
-#     _description = 'fixo_biblioteca_admin.fixo_biblioteca_admin'
+class fixo_voluntarios(models.Model):
+    _name = 'fixo_voluntarios_cooperativos.voluntarios'
+    _description = 'Modelo de voluntarios que cooperan'
 
 #     name = fields.Char()
 #     value = fields.Integer()
