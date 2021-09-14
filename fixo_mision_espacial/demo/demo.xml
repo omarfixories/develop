@@ -1,6 +1,6 @@
 <odoo>
     <data noupdate="1">
-<!--
+
           <record id="naveG1" model="fixo_mision_espacial.nave">
             <field name="nombre">Nave G1</field>
             <field name="pasajeros">500</field> 
@@ -18,6 +18,6 @@
             <field name="pasajeros">15</field>
             <field name="descripcion">Nave pequeña de 15 pasajeros</field>
           </record>
--->
+
     </data>
 </odoo>
