@@ -10,6 +10,7 @@ class fixo_libro(models.Model):
     titulo = fields.Char(string='Titulo', required=True)
     paginas = fields.Integer(string='Cantidad de paginas', required=True)
     Autor = fields.Text(string='Autor')
+    notas = fields.Text(string='Notas')
 #
 #     @api.depends('value')
 #     def _value_pc(self):
